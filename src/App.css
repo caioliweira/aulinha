@@ -1,0 +1,12 @@
+body{
+  background: url(./assets/bg-desktop.png);
+  background-color: hsl(0, 100%, 74%);
+ 
+}
+.Box{
+  display: flex;
+  justify-content: center;
+  margin: 215px;
+  flex-wrap: wrap;
+  
+}
